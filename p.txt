@@ -1,0 +1,5 @@
+notesAppDB   // database name
+users   // collection name
+
+pankaj  // database user
+tpAur49KopuwsDqI  // password
