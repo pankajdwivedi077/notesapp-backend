@@ -22,8 +22,6 @@ To get started with TechNotes, follow these steps:
 
 ## Features
 
-# User Stories for techNotes
-
 1.  Provide easy navigation
 2.  Display current user and assigned role 
 3.  Provide a logout option 
