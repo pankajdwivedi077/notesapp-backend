@@ -1,7 +1,7 @@
 const allowedOrigins = [
-    // 'http://localhost:3000',
-    'https://notesapp-glx7.onrender.com/',
-    // 'https://notesapp.com'
+    
+    'https://notesapp-glx7.onrender.com'
+    
 ]
 
 module.exports = allowedOrigins
